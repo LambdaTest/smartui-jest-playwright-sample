@@ -1,0 +1,29 @@
+{
+  "name": "smartui-jest-playwright-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LambdaTest/smartui-jest-playwright-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LambdaTest/smartui-jest-playwright-sample/issues"
+  },
+  "homepage": "https://github.com/LambdaTest/smartui-jest-playwright-sample#readme",
+  "dependencies": {
+    "@lambdatest/node-tunnel": "^4.0.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.33.0",
+    "jest": "^29.5.0",
+    "jest-playwright-preset": "^3.0.1",
+    "playwright": "^1.33.0"
+  }
+}
